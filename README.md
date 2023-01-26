@@ -48,7 +48,7 @@ Run the server
 ```
 
 ## Output:
-![output](pic.png)
-![output](pic2.png)
+![output](/Screenshot_20230127_010948.png)
+![output](/Screenshot_20230127_011016.png)
 ## Result:
 Thus a website is developed to display details about the places around my house.
