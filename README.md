@@ -5,15 +5,20 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 
-### Step 1: Create a new django project and app
+### Step 1:
+ Create a new django project and app
 
-### Step 2: Type code in views and urls.py
+### Step 2: 
+Type code in views and urls.py
 
-### Step 3: create HTML files according to your places
+### Step 3:
+ create HTML files according to your places
 
-### Step 4: Give deatils about that places in html file
+### Step 4:
+ Give deatils about that places in html file
 
-### Step 3: Run the server
+### Step 3: 
+Run the server
 
 ## Code:
 ```html
