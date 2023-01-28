@@ -12,7 +12,7 @@ To develop a website to display details about the places around my house.
 Type code in views and urls.py
 
 ### Step 3:
- create HTML files according to your places
+ create HTML files according your places
 
 ### Step 4:
  Give deatils about that places in html file
